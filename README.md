@@ -1,5 +1,7 @@
 # Mini Project 1 : CSNWP 
 
+# <a href="https://www.linkedin.com/posts/shafiulla-attar-b4a716252_webdeveloper-fullstackdevelopment-php-activity-7119320716650418176-psRA?utm_source=share&utm_medium=member_desktop">Demo Video</a>
+
 <img src="./images/csnwp.png" style="width:100%;height: 500">
 
 
